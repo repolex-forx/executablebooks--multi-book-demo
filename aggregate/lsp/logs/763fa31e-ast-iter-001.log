@@ -1,0 +1,7 @@
+[2026-10-21T22:17:16Z] === AST ITERATION 1 START | repo=executablebooks/multi-book-demo sha=763fa31e ===
+[2026-10-21T22:17:16Z] [iter=1] PHASE START: ast repo=executablebooks/multi-book-demo sha=763fa31e
+[2026-10-21T22:17:16Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T22:17:16Z] [iter=1] AST chunks built count=1 triples=992
+[2026-10-21T22:17:16Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/763fa31e4dae22eecfc23896c54332057426c060/.complete
+[2026-10-21T22:17:16Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-21T22:17:16Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
